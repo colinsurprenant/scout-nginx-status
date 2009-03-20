@@ -1,5 +1,7 @@
 # Nginx Stats Scout Plugin
 
+* github repository: [http://github.com/colinsurprenant/scout-nginx-status/](http://github.com/colinsurprenant/scout-nginx-status/)
+
 [Scout](http://scoutapp.com/) plugin to monitor and gather statistics of a nginx server.
 
 This plugin is based on the scout-nginx-status-plugin plugin written by Luc Castera [http://github.com/dambalah/](http://github.com/dambalah).
